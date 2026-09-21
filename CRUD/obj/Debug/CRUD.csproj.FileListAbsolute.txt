@@ -1,0 +1,7 @@
+D:\projetos\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+D:\projetos\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+D:\projetos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+D:\projetos\CRUD\CRUD\bin\Debug\CRUD.exe
+D:\projetos\CRUD\CRUD\bin\Debug\CRUD.pdb
+D:\projetos\CRUD\CRUD\obj\Debug\CRUD.exe
+D:\projetos\CRUD\CRUD\obj\Debug\CRUD.pdb
